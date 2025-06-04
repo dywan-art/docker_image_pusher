@@ -1,2 +1,5 @@
 docker.io/linuxserver/freshrss:latest
 docker.io/library/postgres:latest
+ghcr.io/diygod/rsshub:chromium-bundled
+docker.io/browserless/chrome:latest
+docker.io/redis:alpine

@@ -1,2 +1,2 @@
 docker.io/linuxserver/freshrss:latest
-docker.io/postgres:latest
+docker.io/library/postgres:latest

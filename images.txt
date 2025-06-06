@@ -3,6 +3,7 @@
 # ghcr.io/diygod/rsshub:chromium-bundled
 # docker.io/browserless/chrome:latest
 # docker.io/redis:alpine
+# docker.io/neosmemo/memos:stable
 
-docker.io/neosmemo/memos:stable
+docker.io/diygod/rsshub:latest
 

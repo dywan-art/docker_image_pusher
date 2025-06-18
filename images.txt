@@ -5,5 +5,6 @@
 # docker.io/redis:alpine
 # docker.io/neosmemo/memos:stable
 
-docker.io/diygod/rsshub:latest
+# docker.io/diygod/rsshub:latest
+Spring-ai-alibaba/playground:1.0.0.2-x
 

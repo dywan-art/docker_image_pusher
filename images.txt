@@ -6,5 +6,5 @@
 # docker.io/neosmemo/memos:stable
 
 # docker.io/diygod/rsshub:latest
-Spring-ai-alibaba/playground:1.0.0.2-x
+spring-ai-alibaba/playground:1.0.0.2-x
 
